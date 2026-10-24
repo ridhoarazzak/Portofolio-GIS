@@ -1,0 +1,32 @@
+# South Solok Spatial Data Initiative (SSDI)
+
+![Gambar proyek](../assets/images/placeholder-project.png)
+
+## Ringkasan
+
+Platform web terbuka dengan 17 modul analisis geospasial yang mencakup seluruh 39 nagari di Solok Selatan, dibangun di Google Earth Engine dan dipasang di Vercel. Tujuannya membuat data spasial lebih mudah dipakai oleh nagari, dinas, dan masyarakat.
+
+**Wilayah:** Kabupaten Solok Selatan, Sumatera Barat  
+**Peran:** Pembangun dan pengelola  
+**Status:** Berjalan
+
+[Buka platform SSDI](https://ssdi.vercel.app){ .md-button .md-button--primary }
+
+---
+
+## Metode dan alat
+
+| Alat | Fungsi |
+|------|--------|
+| Google Earth Engine | Analisis data satelit untuk 17 modul |
+| Vercel | Hosting platform web |
+| Random Forest | Klasifikasi untuk deteksi perubahan lahan |
+
+---
+
+## Hasil yang menonjol
+
+- 17 modul analisis untuk 39 nagari.
+- Data spektral multi-waktu 2015-2025 mengidentifikasi lebih dari 288 hektare konversi lahan kritis di zona penyangga.
+- Prototipe dashboard risiko banjir dan konversi lahan di Lubuk Gadang (2024-2025).
+- Menjadi dasar peta skrining sungai dan estimasi panen sawah pada proyek lain di portofolio ini.
